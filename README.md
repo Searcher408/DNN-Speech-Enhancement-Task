@@ -46,6 +46,9 @@ PESQ(Perceptual evaluation of speech quality，客观语音质量评估)是客�
 
 ## 参考资料：
 [1] Xu Y, Du J, Dai L R, et al. An experimental study on speech enhancement based on deep neural networks[J]. IEEE Signal processing letters, 2014, 21(1): 65-68.
+
 [2] [基于深度学习的语音增强-极简源代码](https://cloud.tencent.com/developer/article/1034077)
+
 [3] [基于kaidi谱特征的语音重构](https://funcwj.github.io/2017/06/01/kaldi-based-reconstruction/#more)
+
 [4] 基于深层神经网络的语音增强方法研究（徐勇博士论文）
